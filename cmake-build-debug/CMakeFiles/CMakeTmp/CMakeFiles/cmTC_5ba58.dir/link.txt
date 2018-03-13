@@ -1,0 +1,1 @@
+/usr/bin/c++.exe    -Wl,--enable-auto-import  CMakeFiles/cmTC_5ba58.dir/feature_tests.cxx.o  -o cmTC_5ba58.exe -Wl,--out-implib,libcmTC_5ba58.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
